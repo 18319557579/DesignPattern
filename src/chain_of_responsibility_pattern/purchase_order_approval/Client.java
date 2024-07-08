@@ -6,7 +6,7 @@ class Client {
         Approver kangXi, yongZheng, qianLong, hanLinYuan;
         kangXi = new Director("康熙");
         yongZheng = new VicePresident("雍正");
-        qianLong = new VicePresident("乾隆");
+        qianLong = new President("乾隆");
         hanLinYuan = new Congress("翰林院");
 
         //创建职责链

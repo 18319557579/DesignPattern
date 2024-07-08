@@ -7,10 +7,5 @@ abstract class Handler {
         this.successor = successor;
     }
 
-    public boolean handleRequest(String taskName) {
-        if (successor == null) {
-            return false;
-        }
-        return successor.handleRequest(taskName);
-    }
+    public abstract boolean handleRequest(String taskName);
 }

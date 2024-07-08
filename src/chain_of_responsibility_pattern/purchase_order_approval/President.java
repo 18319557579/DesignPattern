@@ -2,6 +2,7 @@ package chain_of_responsibility_pattern.purchase_order_approval;
 
 import java.text.MessageFormat;
 
+//董事长类：具体处理者
 class President extends Approver{
     public President(String name) {
         super(name);

@@ -15,5 +15,4 @@ abstract class Approver {
     }
 
     public abstract void processRequest(PurchaseRequest request);
-
 }
