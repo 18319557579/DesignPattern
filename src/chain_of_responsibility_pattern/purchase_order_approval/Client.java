@@ -1,5 +1,6 @@
 package chain_of_responsibility_pattern.purchase_order_approval;
 
+//采购单审批案例
 class Client {
     public static void main(String[] args) {
         Approver kangXi, yongZheng, qianLong, hanLinYuan;
