@@ -1,4 +1,4 @@
-package Prototype;
+package prototype_pattern;
 
 public class MainMethod {
     public static void main(String[] args) {

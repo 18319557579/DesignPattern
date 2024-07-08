@@ -1,4 +1,4 @@
-package Prototype;
+package prototype_pattern;
 
 public interface Shape extends Cloneable {
 

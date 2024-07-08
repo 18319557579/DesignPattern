@@ -1,4 +1,4 @@
-package Prototype;
+package prototype_pattern;
 
 import java.util.Scanner;
 
