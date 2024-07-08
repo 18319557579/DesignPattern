@@ -1,4 +1,4 @@
-package chain_of_responsibility_pattern;
+package chain_of_responsibility_pattern.purchase_order_approval;
 
 //审批者类: 抽象处理者
 abstract class Approver {
